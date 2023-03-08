@@ -1,0 +1,10 @@
+~/: ls
+ /tmp/my_first_directory/
+cd tmp
+/tmp :$ ls 
+betty
+mv betty my_first_directory/
+cd ..
+~/:cd my_first_directory
+/my_first_directory: ls
+betty
