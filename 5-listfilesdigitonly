@@ -1,0 +1,8 @@
+root@97b1d5246321:/0-current_working_directory/root/alx-system_engineering-devops/0x00-shell_basics/alx-system_engineering-devops# ls -n
+total 20
+-rw-r--r-- 1 0 0  83 Mar  8 11:55 0-current_working_directory
+-rw-r--r-- 1 0 0  87 Mar  8 11:49 1-listit
+-rw-r--r-- 1 0 0 161 Mar  8 12:02 2-bring_me_home
+-rw-r--r-- 1 0 0 503 Mar  8 12:05 3-listfiles
+-rw-r--r-- 1 0 0 558 Mar  8 12:06 4-listmorefiles
+-rw-r--r-- 1 0 0   0 Mar  8 12:08 5-listfilesdigitonly
