@@ -1,0 +1,37 @@
+root@97b1d5246321:/# ls -la
+total 8
+drwxr-xr-x    1 root root 258 Mar  8 11:07 .
+drwxr-xr-x    1 root root 258 Mar  8 11:07 ..
+drwxr-xr-x    3 root root  18 Mar  8 11:09 0-current_working_directory
+drwxr-xr-x    2 root root   6 Mar  3 12:00 0x02_emacs
+drwxr-xr-x    6 root root 114 Mar  3 11:57 0x03_vi
+drwxr-xr-x    6 root root 128 Mar  7 09:57 alx-pre_course
+drwxr-xr-x    6 root root 108 Mar  7 11:00 alx-zero_day
+lrwxrwxrwx    1 root root   7 Mar 16  2022 bin -> usr/bin
+drwxr-xr-x    2 root root   6 Apr 15  2020 boot
+drwxr-xr-x    5 root root 340 Mar  8 11:05 dev
+-rwxr-xr-x    1 root root   0 Mar  1 12:02 .dockerenv
+drwxr-xr-x    1 root root  37 Mar  6 09:56 etc
+drwxr-xr-x    8 root root 166 Mar  8 11:37 .git
+drwxr-xr-x    1 root root 170 Mar  3 02:49 home
+lrwxrwxrwx    1 root root   7 Mar 16  2022 lib -> usr/lib
+lrwxrwxrwx    1 root root   9 Mar 16  2022 lib32 -> usr/lib32
+lrwxrwxrwx    1 root root   9 Mar 16  2022 lib64 -> usr/lib64
+lrwxrwxrwx    1 root root  10 Mar 16  2022 libx32 -> usr/libx32
+drwxr-xr-x    2 root root   6 Mar 16  2022 media
+drwxr-xr-x    2 root root   6 Mar 16  2022 mnt
+drwxr-xr-x    2 root root  22 Mar  2 02:57 modeling
+drwxr-xr-x    1 root root  19 Mar 29  2022 opt
+dr-xr-xr-x 1416 root root   0 Mar  8 11:05 proc
+-rw-r--r--    1 root root  17 Mar  6 07:59 README.md
+drwx------    1 root root 263 Mar  8 12:32 root
+drwxr-xr-x    2 root root 178 Mar  3 11:02 root@896cf839cf9a
+drwxr-xr-x    1 root root  22 Feb 22 00:01 run
+lrwxrwxrwx    1 root root   8 Mar 16  2022 sbin -> usr/sbin
+-rw-r--r--    1 root root 133 Mar  2 05:24 so_cool
+drwxr-xr-x    2 root root   6 Mar 16  2022 srv
+dr-xr-xr-x   13 root root   0 Mar  8 11:05 sys
+drwxrwxrwt    1 root root  64 Mar  6 19:23 tmp
+drwxr-xr-x    1 root root 109 Mar 29  2022 usr
+drwxr-xr-x    1 root root  41 Mar 16  2022 var
+root@97b1d5246321:/# 
