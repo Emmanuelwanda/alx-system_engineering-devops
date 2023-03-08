@@ -1,0 +1,10 @@
+root@97b1d5246321:/0-current_working_directory/root/alx-system_engineering-devops/0x00-shell_basics/alx-system_engineering-devops# ls -la
+total 16
+drwxr-xr-x 3 root root 134 Mar  8 12:06 .
+drwxr-xr-x 4 root root 112 Mar  8 11:27 ..
+-rw-r--r-- 1 root root  83 Mar  8 11:55 0-current_working_directory
+-rw-r--r-- 1 root root  87 Mar  8 11:49 1-listit
+-rw-r--r-- 1 root root 161 Mar  8 12:02 2-bring_me_home
+-rw-r--r-- 1 root root 503 Mar  8 12:05 3-listfiles
+-rw-r--r-- 1 root root   0 Mar  8 12:06 4-listmorefiles
+drwxr-xr-x 8 root root 166 Mar  8 12:05 .git
