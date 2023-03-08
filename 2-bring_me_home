@@ -1,0 +1,7 @@
+Lucky@ubuntu:/tmp$ pwd
+/tmpLucky@ubuntu:/tmp$ echo $HOME
+/home/Lucky
+Lucky@ubuntu:/tmp$ source ./2-bring_me_home
+Lucky@ubuntu:~$ pwd
+/home/Lucky
+Lucky@ubuntu:~$
