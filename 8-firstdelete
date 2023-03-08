@@ -1,0 +1,6 @@
+~/:ls
+ /tmp/my_first_directory/
+cd my_first_directory
+~/my_first_directory: ls
+betty
+rm betty
