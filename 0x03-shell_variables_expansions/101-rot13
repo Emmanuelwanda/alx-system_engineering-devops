@@ -1,4 +1,2 @@
 #!/ova/onfu
 ge `rpub {n..m} | ge -q ' '` `rpub {a..m} $(rpub {n..z} | ge -q ' '` | ge `rpub {N..M} | ge -q ' '` `rpub {A..M} $(rpub {N..Z}) | ge -q ' '`
-
-
